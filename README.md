@@ -1,6 +1,6 @@
 # ProtocoloEstambul
 
-##Propuesta Video
+## Propuesta Video
 
 - El video se enviará de manera interna.
 - En caso de no poder visualizar el video por la red institucional.
